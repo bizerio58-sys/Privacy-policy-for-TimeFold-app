@@ -1,6 +1,6 @@
 # Privacy-policy-for-TimeFold-app
 Privacy Policy
-Effective Date: May 2024
+Effective Date: Nov 24
 App Name: TimeFold
 Overview
 TimeFold ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how TimeFold handles your information when you use our mobile application.
@@ -29,4 +29,4 @@ TimeFold does not knowingly collect data from children under the age of 13. Sinc
 •
 We may update our Privacy Policy from time to time. Any changes will be reflected within the app update notes.
 Contact Us
-If you have any questions or suggestions regarding our Privacy Policy, contact us onbizerio58@gmail.com
+If you have any questions or suggestions regarding our Privacy Policy, contact us on bizerio58@gmail.com
