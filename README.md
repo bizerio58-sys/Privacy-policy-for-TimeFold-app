@@ -1,0 +1,1 @@
+# Privacy-policy-for-TimeFold-app
